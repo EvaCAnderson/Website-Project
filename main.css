@@ -1,0 +1,57 @@
+body {
+    background-color:paleturquoise;
+    font-family: garamond;
+    border: 5px steelblue dashed;
+}
+
+h1{
+    font-family:'Times New Roman';
+    border: darkblue
+}
+
+
+img, .desc {
+    width: 400px;
+}
+
+.desc {
+    width: 400px
+}
+
+
+* {
+    box-sizing: border-box;
+    padding: 0px 5px 0px 5px
+}
+
+
+#example-img-box{
+    display: flex;
+    width: 2000px;
+    border: aqua 6px;
+} 
+
+
+nav ul li {
+    display: flex;
+    margin: 12px;
+    padding: 12px;
+    justify-content: space-around;
+    background-color: palevioletred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold';
+    color: black;
+    font-size: 42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
